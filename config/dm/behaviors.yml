@@ -1,0 +1,6 @@
+dmBehaviors:
+  dmMediaGalleryBehavior:
+    section: DOM Manipulation
+    name: Media Gallery
+    form: dmMediaGalleryBehaviorForm
+    view: dmMediaGalleryBehaviorView

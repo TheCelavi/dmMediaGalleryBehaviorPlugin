@@ -1,0 +1,15 @@
+This is the presentation of the concept: from the simple widgets and behaviors, we are creating the complex stuffs.
+
+Now, we are all trying to find out the way how to create a media gallery plugin, isn't?
+
+So there are a lot of plugins for that, some photo gallery, video gallery etc... Even I have created a several...
+
+In basic - the media gallery (lets say a photo gallery) is collection of the simple media widgets (or photo widgets, if you like...)
+
+The rendering is problem ... how to be easy to end user? 
+
+Well, just attach this behavior - you will still have a widgets, but you can easily setup how this widgets will be displayed.
+
+Media Gallery widgets? Go to trash can!!!! :D
+
+Hope you like this!

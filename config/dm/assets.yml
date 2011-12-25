@@ -1,0 +1,7 @@
+css:
+  dmMediaGalleryBehaviorPlugin:
+    themes: themes
+    
+js:
+  dmMediaGalleryBehaviorPlugin:
+    launch: dmMediaGalleryBehavior
