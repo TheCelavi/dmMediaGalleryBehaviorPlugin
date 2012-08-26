@@ -38,7 +38,7 @@
             $this.data('dmMediaGalleryBehavior', null);
             $this.removeClass('dmMediaGalleryBehavior').removeClass(behavior.theme).removeClass('clearfix');
         }
-    }
+    };
     
     $.fn.dmMediaGalleryBehavior = function(method, behavior){
         
@@ -49,7 +49,7 @@
                 return methods.init.apply( this, [method] );
             } else {
                 $.error( 'Method ' +  method + ' does not exist on jQuery.dmMediaGalleryBehavior' );
-            }  
+            };  
         });
     };
 

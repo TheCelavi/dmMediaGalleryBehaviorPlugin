@@ -4,4 +4,4 @@ css:
     
 js:
   dmMediaGalleryBehaviorPlugin:
-    launch: dmMediaGalleryBehavior
+    launch: dmMediaGalleryBehavior.min
